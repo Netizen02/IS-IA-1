@@ -1,4 +1,4 @@
-# Malicious Web Traffic Detection Model
+# Web Traffic Detection
 
 ## Description
 This is a set of basic code and algorithm which can be used to detect malicious web traffic. The way the model is designed is there is data from a csv file which will transferred into a database. From the database the data will be calculated to generate a baseline. If the model encounter future web traffic which severely exceeds the baseline then the model will detect it.
